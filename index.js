@@ -1,3 +1,4 @@
-function hemilenallo(){
+
+function DastanChange(){
     alert('hello');
 }
